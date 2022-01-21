@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F90C3798279A38F1005F8704 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F90C3798279A38F1005F8704 /* I-Am-Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I-Am-Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F90C379B279A38F1005F8704 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F90C379D279A38F1005F8704 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F90C379F279A38F1005F8704 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		F90C378F279A38F1005F8704 = {
 			isa = PBXGroup;
 			children = (
-				F90C379A279A38F1005F8704 /* I am Rich */,
+				F90C379A279A38F1005F8704 /* I-Am-Rich */,
 				F90C3799279A38F1005F8704 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		F90C3799279A38F1005F8704 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F90C3798279A38F1005F8704 /* I am Rich.app */,
+				F90C3798279A38F1005F8704 /* I-Am-Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F90C379A279A38F1005F8704 /* I am Rich */ = {
+		F90C379A279A38F1005F8704 /* I-Am-Rich */ = {
 			isa = PBXGroup;
 			children = (
 				F90C379B279A38F1005F8704 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				F90C37A6279A38F2005F8704 /* LaunchScreen.storyboard */,
 				F90C37A9279A38F2005F8704 /* Info.plist */,
 			);
-			path = "I am Rich";
+			path = "I-Am-Rich";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F90C3797279A38F1005F8704 /* I am Rich */ = {
+		F90C3797279A38F1005F8704 /* I-Am-Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F90C37AC279A38F2005F8704 /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = F90C37AC279A38F2005F8704 /* Build configuration list for PBXNativeTarget "I-Am-Rich" */;
 			buildPhases = (
 				F90C3794279A38F1005F8704 /* Sources */,
 				F90C3795279A38F1005F8704 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "I am Rich";
+			name = "I-Am-Rich";
 			productName = "I am Rich";
-			productReference = F90C3798279A38F1005F8704 /* I am Rich.app */;
+			productReference = F90C3798279A38F1005F8704 /* I-Am-Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F90C3793279A38F1005F8704 /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = F90C3793279A38F1005F8704 /* Build configuration list for PBXProject "I-Am-Rich" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F90C3797279A38F1005F8704 /* I am Rich */,
+				F90C3797279A38F1005F8704 /* I-Am-Rich */,
 			);
 		};
 /* End PBXProject section */
@@ -294,6 +294,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +322,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -339,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F90C3793279A38F1005F8704 /* Build configuration list for PBXProject "I am Rich" */ = {
+		F90C3793279A38F1005F8704 /* Build configuration list for PBXProject "I-Am-Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F90C37AA279A38F2005F8704 /* Debug */,
@@ -348,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F90C37AC279A38F2005F8704 /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		F90C37AC279A38F2005F8704 /* Build configuration list for PBXNativeTarget "I-Am-Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F90C37AD279A38F2005F8704 /* Debug */,
